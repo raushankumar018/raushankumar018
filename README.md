@@ -1,36 +1,36 @@
-<div align="center">
+<h1 align="center">Hi 👋, I'm Raushan Kumar</h1>
 
-# Hi 👋, I'm Raushan Kumar
+<h3 align="center">💻 Java Developer | 🚀 Problem Solver | 🌱 Spring Boot Learner</h3>
 
-### 🚀 CSE Student | Java Developer | Problem Solver
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&center=true&vCenter=true&width=800&lines=Computer+Science+Student;Java+Backend+Developer;DSA+Problem+Solver;Spring+Boot+Enthusiast;Always+Learning+New+Things" />
+</p>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=00C2FF&center=true&vCenter=true&width=800&lines=Java+Developer;DSA+Problem+Solver;Spring+Boot+Learner;Web+Development+Enthusiast;Always+Learning+New+Things)](https://git.io/typing-svg)
-
-<a href="https://www.linkedin.com/in/raushan-kumar-189472307/">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<a href="mailto:shahraushan26@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-<a href="https://leetcode.com/u/Raushanshah07/">
-<img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/>
-</a>
-
-<a href="https://github.com/raushankumar018">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-</div>
+<p align="center">
+  <a href="https://www.linkedin.com/in/raushan-kumar-189472307/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  
+  <a href="mailto:shahraushan26@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  
+  <a href="https://leetcode.com/u/Raushanshah07/">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/>
+  </a>
+</p>
 
 ---
 
-# 💫 About Me
+## 🚀 About Me
+
+<img align="right" alt="coding" width="350" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
 🎓 Computer Science Engineering Student
 
-💻 Passionate about Software Development & Backend Development
+💻 Passionate about Backend Development
+
+🔥 Solving DSA Problems Daily
 
 🌱 Currently Learning:
 - Spring Boot
@@ -39,130 +39,153 @@
 - Docker
 - AWS
 
-🔥 Solving DSA Problems Daily
+⚡ Goal:
+- Crack a top SDE role
+- Build scalable backend systems
+- Contribute to Open Source
 
-🚀 Interested in Open Source Contributions
-
-⚡ Goal: Become a Software Development Engineer (SDE)
+<br>
 
 ---
 
 # 🛠️ Tech Stack
 
-<div align="center">
-
-### Languages
-
-<img src="https://skillicons.dev/icons?i=java,javascript,html,css" />
-
-### Backend
-
-<img src="https://skillicons.dev/icons?i=spring,nodejs,express" />
-
-### Database
-
-<img src="https://skillicons.dev/icons?i=mysql,mongodb" />
-
-### Tools & Technologies
-
-<img src="https://skillicons.dev/icons?i=git,github,vscode,docker,postman" />
-
-</div>
+<p align="center">
+<img src="https://skillicons.dev/icons?i=java,spring,mysql,mongodb,javascript,html,css,nodejs,git,github,docker,vscode,postman" />
+</p>
 
 ---
 
 # 🚀 Featured Projects
 
-### 💰 EXPENSPHER - Personal Finance Tracker
-Track expenses, income, savings and financial goals efficiently.
+<table>
+<tr>
+
+<td width="50%">
+
+### 💰 EXPENSPHER
+Personal Finance Tracker
+
+✅ Expense Tracking  
+✅ Income Management  
+✅ Financial Analytics  
+✅ Budget Planning  
+
+</td>
+
+<td width="50%">
 
 ### 🎮 Simon Says Game
-Interactive memory game built using JavaScript, HTML and CSS.
+
+✅ Interactive Gameplay  
+✅ JavaScript Logic  
+✅ Responsive UI  
+✅ Score Tracking  
+
+</td>
+
+</tr>
+
+<tr>
+
+<td width="50%">
 
 ### 🌐 Portfolio Website
-Responsive personal portfolio showcasing projects and skills.
 
-### 🗄️ Database Management System
-Database-focused projects involving SQL and data management.
+✅ Responsive Design  
+✅ Project Showcase  
+✅ Modern UI  
+✅ Contact Section  
+
+</td>
+
+<td width="50%">
+
+### 🗄️ Database Projects
+
+✅ SQL Queries  
+✅ Normalization  
+✅ Database Design  
+✅ CRUD Operations  
+
+</td>
+
+</tr>
+
+</table>
 
 ---
 
-# 📊 GitHub Stats
+# 📊 GitHub Statistics
 
-<div align="center">
+<p align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=raushankumar018&show_icons=true&theme=tokyonight"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=raushankumar018&show_icons=true&theme=tokyonight"/>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=raushankumar018&layout=compact&theme=tokyonight"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=raushankumar018&layout=compact&theme=tokyonight"/>
 
-</div>
+</p>
 
 ---
 
 # 🔥 GitHub Streak
 
-<div align="center">
-
+<p align="center">
 <img src="https://streak-stats.demolab.com?user=raushankumar018&theme=tokyonight"/>
-
-</div>
+</p>
 
 ---
 
 # 📈 Contribution Graph
 
-<div align="center">
-
+<p align="center">
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=raushankumar018&theme=tokyo-night"/>
-
-</div>
+</p>
 
 ---
 
-# 🏆 GitHub Trophies
+# 🏆 Achievements
 
-<div align="center">
-
+<p align="center">
 <img src="https://github-profile-trophy.vercel.app/?username=raushankumar018&theme=tokyonight&row=1&column=7"/>
-
-</div>
+</p>
 
 ---
 
 # 📚 Currently Learning
 
-```java
+```text
 ✔ Data Structures & Algorithms
+✔ Java Collections Framework
 ✔ Spring Boot
 ✔ REST APIs
-✔ MySQL
 ✔ System Design
 ✔ Docker
-✔ AWS Cloud
+✔ AWS
 ```
 
 ---
 
-# 📌 Coding Profiles
+# 🌐 Connect With Me
 
-- 💻 LeetCode: https://leetcode.com/u/Raushanshah07/
-- 🔗 LinkedIn: https://www.linkedin.com/in/raushan-kumar-189472307/
-- 📧 Email: shahraushan26@gmail.com
+📧 Email: shahraushan26@gmail.com
 
----
+💼 LinkedIn:
+www.linkedin.com/in/raushan-kumar-189472307
 
-# 💡 Quote
-
-> "Success is the sum of small efforts repeated day in and day out."
+💻 LeetCode:
+leetcode.com/u/Raushanshah07/
 
 ---
 
-<div align="center">
+## 💡 Quote
 
-### 👀 Visitor Count
+> "First, solve the problem. Then, write the code."
 
-![](https://komarev.com/ghpvc/?username=raushankumar018&label=Profile%20Views&color=0e75b6&style=flat)
+---
 
-### ⭐ Thanks for visiting my profile!
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=raushankumar018&label=Profile+Views&color=blue&style=for-the-badge" />
+</p>
 
-</div>
+<h3 align="center">⭐ Thanks for visiting my profile ⭐</h3>

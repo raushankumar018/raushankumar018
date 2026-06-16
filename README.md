@@ -123,45 +123,136 @@ goal:
 ---
 
 <!-- TECH STACK -->
-## 🛠️ Tech Stack
+## 🚀 Tech Arsenal
 
 <div align="center">
 
-**Languages**
-
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-
-**Frameworks & Libraries**
-
-![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-
-**Databases**
-
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-
-**DevOps & Tools**
-
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-
-**Cloud (Learning)**
-
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white)
+<img src="https://skillicons.dev/icons?i=java,spring,nodejs,express,mysql,mongodb,androidstudio,docker,aws,git,github,postman,vscode,html,css,javascript&theme=dark" />
 
 </div>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<br>
+
+<table align="center">
+<tr>
+<td align="center" width="33%">
+
+### 💻 Languages
+
+```text
+☕ Java
+⚡ JavaScript
+🌐 HTML5
+🎨 CSS3
+🗄️ SQL
+```
+
+</td>
+
+<td align="center" width="33%">
+
+### ⚙️ Backend
+
+```text
+🍃 Spring Boot
+🟢 Node.js
+🚀 Express.js
+🔌 REST APIs
+📦 JDBC
+```
+
+</td>
+
+<td align="center" width="33%">
+
+### 📱 Mobile
+
+```text
+🤖 Android
+📲 Android Studio
+📄 XML
+☕ Java Android
+```
+
+</td>
+</tr>
+</table>
+
+<br>
+
+<table align="center">
+<tr>
+<td align="center" width="33%">
+
+### 🗄️ Databases
+
+```text
+🐬 MySQL
+🍃 MongoDB
+📊 DBMS
+```
+
+</td>
+
+<td align="center" width="33%">
+
+### ☁️ DevOps
+
+```text
+🐳 Docker
+☁️ AWS
+🔄 CI/CD
+```
+
+</td>
+
+<td align="center" width="33%">
+
+### 🛠️ Tools
+
+```text
+🐙 GitHub
+🌿 Git
+📮 Postman
+💻 VS Code
+🧠 IntelliJ IDEA
+```
+
+</td>
+</tr>
+</table>
+
+<br>
+
+<div align="center">
+
+### 📚 Computer Science Fundamentals
+
+<img src="https://img.shields.io/badge/Data%20Structures%20%26%20Algorithms-00d4ff?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/OOP-a855f7?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/DBMS-22d3a5?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Operating%20Systems-f97316?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Computer%20Networks-e11d48?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/System%20Design-6366f1?style=for-the-badge"/>
+
+</div>
 
 ---
+
+### ⚡ Currently Learning
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=spring,docker,aws" />
+
+```text
+🔄 Spring Boot Advanced Concepts
+🔄 Docker & Containerization
+🔄 AWS Cloud Services
+🔄 System Design
+```
+
+</div>
 
 <!-- GITHUB ANALYTICS -->
 ## 📊 GitHub Analytics

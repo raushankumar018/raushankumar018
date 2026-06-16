@@ -36,52 +36,57 @@
 
 ---
 
-<!-- ABOUT ME -->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"/> About Me
+## 👋 About Me
 
 <table>
 <tr>
-<td width="55%" valign="top">
 
-```java
-public class RaushanKumar {
+<td width="55%">
 
-    String name     = "Raushan Kumar";
-    String role     = "Java Developer";
-    String college  = "Computer Science Student";
-    String location = "India 🇮🇳";
+### 🚀 Developer Profile
 
-    String[] currentlyLearning = {
-        "Spring Boot",
-        "System Design",
-        "REST APIs",
-        "Docker",
-        "AWS"
-    };
+```yaml
+name: Raushan Kumar
+role: Java Backend Developer
+location: Bihar, India
 
-    String[] goals2025 = {
-        "500+ LeetCode Problems",
-        "Build Full Stack Projects",
-        "Crack SDE Role",
-        "Contribute to Open Source"
-    };
+currently_learning:
+  - Spring Boot
+  - System Design
+  - Docker
+  - AWS
 
-    String passions = "DSA + Backend + Problem Solving";
-}
+interests:
+  - DSA
+  - Backend Development
+  - Open Source
+
+goal:
+  - Crack SDE Role
 ```
 
+### ⚡ Quick Facts
+
+🧩 Solving DSA Problems Daily
+
+💻 Building Backend Applications
+
+🌱 Learning Cloud & DevOps
+
+🚀 Passionate About Problem Solving
+
 </td>
-<td width="45%" align="center" valign="top">
 
-<img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width="320" alt="coding gif"/>
+<td width="45%" align="center">
 
-<br/><br/>
+<img width="100%" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
 
-![Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
+<br><br>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=raushankumar018&theme=tokyonight"/>
 
 </td>
+
 </tr>
 </table>
 
